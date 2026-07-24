@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: python-fundamentals
+Version: 0.1.0
+Summary: Object-oriented Python practice for AI engineering foundations.
+Requires-Python: >=3.13
