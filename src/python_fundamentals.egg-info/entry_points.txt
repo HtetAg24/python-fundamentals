@@ -1,0 +1,2 @@
+[console_scripts]
+student-records = student_records.cli:main
