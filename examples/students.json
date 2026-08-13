@@ -4,27 +4,13 @@
             "student_id": "S001",
             "name": "Htet Aung",
             "email": "htet@example.com",
-            "grades": [
-                80.0,
-                90.0
-            ]
+            "grades": [80, 90]
         },
         {
             "student_id": "S002",
             "name": "Alice Brown",
             "email": "alice@example.com",
-            "grades": [
-                70.0,
-                75.0
-            ]
-        },
-        {
-            "student_id": "S003",
-            "name": "Charlie Green",
-            "email": "charlie@example.com",
-            "grades": [
-                88.0
-            ]
+            "grades": [70, 75]
         }
     ]
 }
